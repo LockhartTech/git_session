@@ -1,6 +1,23 @@
+
+FRUITS
 mango
 soursup
 ginuip
 red plum
 tamarind
 
+
+VEGETABLES
+
+
+
+
+MEAT 
+
+
+
+DAIRY
+
+
+
+HOUSEHOLD
